@@ -44,8 +44,10 @@ This script should have the following characteristics: <br>
 6. It will check which orientation the two sequences align best in and only return the best alignment (i.e., reverse complements one sequence to check) <br>
 7. It prints the alignment followed by the alignment score to the terminal. <br>
 
-
-
+Check the implementation and usage of the module by following the given steps: <br>
+(a) Activate the conda environment consisting of the above-mentioned tools by running "conda activate myenv" <br>
+(b)Run the amplicon_align.py in your terminal with following flags: <br>
+![image](https://github.com/hinagaur/In-Silico-PCR-Needleman-Wunsch/assets/66309991/99f3a021-2260-43c2-94ab-1f231e81b4c7)
 
 
 
