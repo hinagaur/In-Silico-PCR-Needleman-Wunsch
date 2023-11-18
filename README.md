@@ -13,8 +13,8 @@ This ispcr module consists of a function named ispcr. Provided with primers and 
 This function takes as input the path to a primer file, the path to an assembly file, and a maximum amplicon. <br>
 
 Check the implementation and usage of the script by following the given steps: <br>
-Activate the conda environment consisting of above mentioned tools by running "conda activate myenv" <br>
-Run the q1.py script <br>
+(a) Activate the conda environment consisting of above mentioned tools by running "conda activate myenv" <br>
+(b) Run the q1.py script <br>
 
 About ispcr: <br>
 isPCR is simply using a computer to simulate what would happen if you performed a real PCR reaction with a <br>
