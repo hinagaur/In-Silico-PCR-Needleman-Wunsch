@@ -24,7 +24,7 @@ This function takes as input the path to a primer file, the path to an assembly 
 
 Check the implementation and usage of the module by following the given steps: <br>
 (a) Activate the conda environment consisting of above-mentioned tools by running "conda activate myenv" <br>
-(b) Run the q1.py script <br> in your terminal.
+(b) Run the q1.py script in your terminal.
 
 
 ## Needleman Wunch algorithm module (nw.py)
