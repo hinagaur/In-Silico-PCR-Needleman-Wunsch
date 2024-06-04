@@ -2,10 +2,18 @@
 
 ## Pre-requisites: <br>
 Set up a new conda environment with python 3.11 , Blast, Seqtk using the following commands- <br>
+```
 conda create -n myenv
-conda install python=3.8 <br>
-conda install -c bioconda blast <br>
-conda install -c bioconda seqtk <br>
+```
+```
+conda install python=3.8
+```
+```
+conda install -c bioconda blast
+```
+```
+conda install -c bioconda seqtk
+```
 
 About ispcr: <br>
 isPCR is simply using a computer to simulate what would happen if you performed a real PCR reaction with a <br>
